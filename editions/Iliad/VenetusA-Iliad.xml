@@ -27,7 +27,7 @@
         <l n="52">ὀξὺ κάτ ἀκροτάτης πόλιος <rs type="ethnic" n="urn:cite2:hmt:place:place6">Τρώεσσι</rs>
          κελεύων˙</l>
         <l n="53">ἄλλοτε παρ <placeName n="urn:cite2:hmt:place:place92">Σιμόεντι</placeName>,
-         θέων ἐπὶ <placeName n="nothing yet">Καλλικολώνῃ</placeName>˙</l>
+         θέων ἐπὶ <placeName n="urn:cite2:hmt:place:place450">Καλλικολώνῃ</placeName>˙</l>
         <l n="54">ὡς τοὺς ἀμφοτέρους μάκαρες θεοὶ <choice><orig>ὀτρύναντες</orig>
         <reg>ὀτρύνοντεσ</reg></choice></l>
         <l n="55">σύμβαλον. ἐν δ᾽ αὐτοῖς ἔριδα ῥήγνυντο βαρεῖαν˙</l>
@@ -72,4 +72,4 @@
       </div>
     </body>
   </text>
-</TEI>
+</TEI> 
