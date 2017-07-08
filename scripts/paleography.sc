@@ -65,33 +65,10 @@ object Paleography {
       report.append (s"| ${idDisplay} | ${reading} | ${imgLink} | \n")
     }
     report.append("\n\n")
-    val iliadReportFile = new File(repoDirectory + "reports/paleography-iliad.md")
+    val reportFile = "reports/paleography-scholia.md"
+    val iliadReportFile = new File(repoDirectory + reportFile)
     new PrintWriter(iliadReportFile) { write(report.toString); close }
-    println("Iliad report is in reports/paleography-scholia.md")
-
-    /*
-    val urlBase = s"${imgService}&w=${imageSize}&urn="
-    val report =  StringBuilder.newBuilder
-    report.append("# Paleographic verification: *scholia*\n\n")
-    report .append("| Record | Reading     | Image     |\n| :------------- | :------------- |\n")
-
-    val reader = CSVReader.open(new File(scholiaDataFile))
-    val entries = reader.allWithHeaders()
-
-    for (entry <- entries) {
-      val img = entry("Image")
-      try {
-        val txt = CtsUrn(entry("TextUrn"))
-        val reading = txt.passageNodeSubrefText
-
-        report.append(s"| ${reading} | ![${txt}](${urlBase}${img}) |\n")
-      } catch {
-        case t: Throwable => report.append(s"| ${t.getMessage()} | Text reference: " + entry("TextUrn") + " |\n")
-      }
-    }
-    report.append("\n\n")
-    new PrintWriter(scholiaReportFile) { write(report.toString); close }
-    */
+    println(s"Scholia paleography report is in ${reportFile}")
   }
 
 
