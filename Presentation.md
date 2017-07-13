@@ -1,36 +1,46 @@
-### The Battle of the Gods
----
-### Background Information
+# The Battle of the Gods
 
-- The gods are matched in opposition to each other for battle
+Chrissy Hicks, Olivia Monster, Michael Raheb
 
-- *τῶν θεῶν μαχη περίεχει φυσικὴν στοιχείων προ στοιχεῖα ἀντίταξιν κακιῶν πρὸς ἀρετάς*
-
-- "The battle of the gods encompasses the natural opposition of elements against elements, vices against virtues"
 
 ---
-### First Observation
-[Selection from Main Scholion 4](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431@0.6441,0.1871,0.1846,0.01508)
 
-*Ἥρα δὲ (ἐναντιοῦται) Ἀρτέμιδι ὁ περίγειος αηρ τῇ σελήνη˙*
+## Background Information
 
-"Hera is in opposition to Artemis (as) the air surrounding the earth is to the moon."
+The gods are matched in opposition to each other for battle
+
+> *τῶν θεῶν μαχη περίεχει φυσικὴν στοιχείων προ στοιχεῖα ἀντίταξιν κακιῶν πρὸς ἀρετάς*
+>
+> The battle of the gods encompasses the natural opposition of elements against elements, vices against virtues
 
 ---
-### Resulting Questions
+
+## First Observation
+
+> Ἥρα δὲ (ἐναντιοῦται) Ἀρτέμιδι ὁ περίγειος αηρ τῇ σελήνη˙
+>
+> Hera is in opposition to Artemis (as) the air surrounding the earth is to the moon.
+
+---
+
+## Resulting Questions
 
 - Why is Hera the air and Artemis the moon?
 
 - Why are the moon and the air opposed to each other?
 
 ---
-### Second Observation
+
+## Second Observation
+
 [Selection from Main Scholion 11](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431@0.6441,0.1871,0.1846,0.01508@0.1818,0.8253,0.4024,0.02199)
 
-*Ἥρα δέ ἐστιν ἀήρ˙ Ἄρτεμις δὲ σελήνη ἀερότεμίς τις
-οῦσα ἡ τὸν ἀέρα τέμνουσα ἐξ οῦ ἤρτηται.*
+[Try number 2](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431@0.6441,0.1871,0.1846,0.01508@0.1818,0.8253,0.4024,0.02199@0.1776,0.8225,0.4020,0.02116)
 
-"Hera is air. Artemis is the moon, being some "aer-temis" who, cutting the air, does not hang from it."
+
+>Ἥρα δέ ἐστιν ἀήρ˙ Ἄρτεμις δὲ σελήνη ἀερότεμίς τις οῦσα ἡ τὸν ἀέρα τέμνουσα ἐξ οῦ ἤρτηται.*
+>
+> Hera is air. Artemis is the moon, being some "aer-temis" who, cutting the air, does not hang from it.
 
 - Redundancy to the original scholion suggests multitextual links
 
@@ -44,7 +54,7 @@
 ---
 ### Venetus B and the Allegorical Tradition
 
-[Image of Similar Venetus B Scholion](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenB/VB270RN-0714.tif&RGN=0.809,0.3371,0.084,0.039&WID=9000&CVT=JPEG)
+![Image of Similar Venetus B Scholion](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenB/VB270RN-0714.tif&RGN=0.809,0.3371,0.084,0.039&WID=400&CVT=JPEG)
 
 [Image of Entire Folio](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vbimg.VB170RN-0614)
 
@@ -90,3 +100,12 @@
 - Look at the allegorical and etymological elements of the explanations
 
 - Look at other manuscripts in the Homer Multitext project that would allow for greater breadth and depth in studying allegorical and etymological traditions
+
+
+---
+
+
+---
+
+
+[Overlaid links](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431@0.6441,0.1871,0.1846,0.01508@0.1818,0.8253,0.4024,0.02199&urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431@0.6441,0.1871,0.1846,0.01508&)
