@@ -4,8 +4,9 @@
 
 - The gods are matched in opposition to each other for battle
 
-- *στοιχείων προ στοιχεῖα ἀντίταξιν κακιῶν πρὸς ἀρετάς*:
-  Allegory of elements against elements or vices against virtues
+- *στοιχείων προ στοιχεῖα ἀντίταξιν κακιῶν πρὸς ἀρετάς*
+
+- Allegory of elements against elements or vices against virtues
 
 ---
 ### First Observation
@@ -57,7 +58,7 @@
 ---
 ### Tracing the Etymology: Heraclitus
 
-- Venetus B also has a high concentration of Heraclitean material
+- Venetus B has a high concentration of Heraclitean material
 
 -  Heraclitus the grammarian (1st century A.D.) was a proponent of the allegorical tradition
 
@@ -84,8 +85,8 @@
 ---
 ### Next Steps
 
-- Look at the relationships between the other gods in their various battles
+- Look at the characterizations of the other gods in their respective battles
 
-- Compare the allegorical and etymological elements of the explanations
+- Look at the allegorical and etymological elements of the explanations
 
-- A Homer Multitext would allow for considerable breadth and depth in studying allegorical and etymological traditions
+- Look at other manuscripts in the Homer Multitext project that would allow for greater breadth and depth in studying allegorical and etymological traditions
