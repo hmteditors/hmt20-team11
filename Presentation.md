@@ -39,3 +39,5 @@ Translation of above quotation
 ### Tracing the etymology: Heraclitus
 ---
 ### Next Steps
+- Look at the relationships between the other gods in their various battles
+- Compare the allegorical and etymological elements of the explanations
