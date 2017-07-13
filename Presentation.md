@@ -4,9 +4,9 @@
 
 - The gods are matched in opposition to each other for battle
 
-- *στοιχείων προ στοιχεῖα ἀντίταξιν κακιῶν πρὸς ἀρετάς*
+- *τῶν θεῶν μαχη περίεχει φυσικὴν στοιχείων προ στοιχεῖα ἀντίταξιν κακιῶν πρὸς ἀρετάς*
 
-- Allegory of elements against elements or vices against virtues
+- "The battle of the gods encompasses the natural opposition of elements against elements, vices against virtues"
 
 ---
 ### First Observation
