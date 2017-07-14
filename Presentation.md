@@ -13,6 +13,7 @@ The gods are matched in opposition to each other for battle
 >
 > The battle of the gods encompasses the natural opposition of elements against elements, vices against virtues.
 
+
 [Folio Image](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431)
 
 ---
@@ -23,7 +24,10 @@ The gods are matched in opposition to each other for battle
 >
 > Hera is in opposition to Artemis (as) the air surrounding the earth is to the moon.
 
-[Folio Image](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431)
+![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA261RN_0431.tif&RGN=0.6426,0.1873,0.1863,0.01632&WID=800&CVT=JPEG)
+
+
+[Folio Image](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431@0.6426,0.1873,0.1863,0.01632)
 
 ---
 
@@ -41,7 +45,9 @@ The gods are matched in opposition to each other for battle
 >
 > Hera is air. Artemis is the moon, being some "aer-temis" who, cutting the air, does not hang from it.
 
-[Folio Image](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431)
+![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenA/VA261RN_0431.tif&RGN=0.1820,0.8254,0.4018,0.02006&WID=800&CVT=JPEG)
+
+[Folio Image](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431@0.1820,0.8254,0.4018,0.02006)
 
 - Redundancy to the original scholion suggests intertextual links
 
