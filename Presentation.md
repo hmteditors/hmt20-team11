@@ -45,14 +45,14 @@ The gods are matched in opposition to each other for battle
 - Redundancy to the original scholion suggests intertextual links
 
 ---
-### Questions Refined
+## Questions Refined
 
 - Can we find intertextual depth to the allegorical explanation?
 
 - What is the origin of the etymology *ἀερότεμίς*?
 
 ---
-Porphyry the Grammarian
+## Porphyry the Grammarian
 
 - *Ἀερότεμίς* is a rare word characteristically found in the work of Porphyry, a Neoplatonist grammarian from 3rd century A.D.
 
@@ -62,7 +62,7 @@ Porphyry the Grammarian
 that has shaped scholarly tradition
 
 ---
-Porphyry in Eusebius' *Praeperatio Evangelica*
+## Porphyry in Eusebius' *Praeperatio Evangelica*
 
 - Eusebius was a church father. Porphyry wrote about pagan deities
 
@@ -76,7 +76,7 @@ Porphyry in Eusebius' *Praeperatio Evangelica*
 >'And having taken up the moon according to its brightness, they called it Artemis, such as 'ἀερότεμιν' (cutting the air).'
 
 ---
-### Porphyry in the Venetus A and B
+## Porphyry in the Venetus A and B
 
 - Porphyry not only appears in Venetus A (urn:cite2:hmt:pers:pers77), but his work seems linked to Venetus B
 
@@ -87,34 +87,32 @@ Porphyry in Eusebius' *Praeperatio Evangelica*
 [Image of Entire Folio](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vbimg.VB170RN-0614)
 
 ---
-### Before Porphyry: Heraclitus
-
-- Venetus B has a high concentration of Heraclitean material
+## Before Porphyry: Heraclitus
 
 -  Heraclitus the grammarian (1st century A.D.) was a proponent of the allegorical tradition
 
 -  Only extant work is a *Homeric Problemata*
 
-- Searched his *Homeric Problemata* for etymological and allegorical issues
+- We searched his *Homeric Problemata* for etymological and allegorical issues
 
 - Manuscripts represented in the result: two in the Vatican Library, one in the British Royal Library
 
 ---
-### Tracing the Etymology: Heraclitus (cont.)
+## Tracing the Etymology: Heraclitus (cont.)
 
 *Οὐδὲ τοῦτ' ἀλόγος εἰσήγαγεν Ὅμερος˙ ἀλλ' ὥσπερ ἔφην Ἥρα μέν έστιν ἀήρ, τὴν δὲ σελήνην Ἄρτεμιν ὀνομάζει˙ πᾶν δὲ τὸ τεμνόμενον ἀεὶ πολέμίον ἐστι τῷ τέμνοντι˙ διὰ τοῦτο ἐχθρὰν ἀέρι τὴν σελήνην ὑπεστήσατο τὴν ἐν ἀέρι ἀυτῆς φορὰν καὶ τοὺς δρόμους ὑποσημαίνων.*
 
 "Homer has not introduced these details either without good reason. As I have said, Hera is air, and he calls the moon Artemis. Now whatever is cut [*τεμνομενον*] is always the enemy of the cutter [*τεμνον*], and this is why he has made the moon the enemy of the air [*αηρ*] suggesting thereby the movement and course of the moon through the air."
 
 ---
-### Conclusions
+## Conclusions
 
 - Now we know why the air and the moon are opposed!
 
 - Scholia tradition provides a valuable insight into ancient philology and thought
 
 ---
-### Next Steps
+## Next Steps
 
 - Look at the characterizations of the other gods in their respective battles
 
