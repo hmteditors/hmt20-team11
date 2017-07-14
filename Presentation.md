@@ -9,9 +9,9 @@ Chrissy Hicks, Olivia Monster, Michael Raheb
 
 The gods are matched in opposition to each other for battle
 
-> *τῶν θεῶν μαχη περίεχει φυσικὴν στοιχείων προ στοιχεῖα ἀντίταξιν κακιῶν πρὸς ἀρετάς*
+>*τῶν θεῶν μαχη περίεχει φυσικὴν στοιχείων προ στοιχεῖα ἀντίταξιν κακιῶν πρὸς ἀρετάς*
 >
-> The battle of the gods encompasses the natural opposition of elements against elements, vices against virtues
+> The battle of the gods encompasses the natural opposition of elements against elements, vices against .
 
 ---
 
@@ -42,31 +42,52 @@ The gods are matched in opposition to each other for battle
 >
 > Hera is air. Artemis is the moon, being some "aer-temis" who, cutting the air, does not hang from it.
 
-- Redundancy to the original scholion suggests multitextual links
+- Redundancy to the original scholion suggests intertextual links
 
 ---
 ### Questions Refined
 
-- Can we find multitextual depth to the allegorical explanation?
+- Can we find intertextual depth to the allegorical explanation?
 
 - What is the origin of the etymology *ἀερότεμίς*?
 
 ---
-### Venetus B and the Allegorical Tradition
+Porphyry the Grammarian
+
+- *Ἀερότεμίς* is a rare word characteristically found in the work of Porphyry, a Neoplatonist grammarian from 3rd century A.D.
+
+- His work is published in a *Homeric Problemata*, a genre defending Homer against criticism
+
+- Porphyry's work contains etymological and allegorical information
+that has shaped scholarly tradition
+
+---
+Porphyry in Eusebius' *Praeperatio Evangelica*
+
+- Eusebius was a church father. Porphyry wrote about pagan deities
+
+>Καὶ τοῦ μὲν παντὸς ἀέρος ἡ δύναμις Ἥρα τοὔνομα ἀπὸ τοῦ ἀέρος κεκλη-
+μένη·
+
+>'And the power of all air is Hera, called by a name derived from the air.'
+
+>τὴν δὲ σελήνην παρὰ τὸ σέλας ὑπολαβόντες Ἄρτεμιν προσηγόρευσαν, οἷον ἀερότεμιν
+
+>'And having taken up the moon according to its brightness, they called it Artemis, such as 'ἀερότεμιν' (cutting the air).'
+
+---
+### Porphyry in the Venetus A and B
+
+- Porphyry not only appears in Venetus A (urn:cite2:hmt:pers:pers77), but his work seems linked to Venetus B
 
 ![Image of Similar Venetus B Scholion](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/VenB/VB270RN-0714.tif&RGN=0.809,0.3371,0.084,0.039&WID=400&CVT=JPEG)
 
+> *τὴν δ' αὖ σελήνην Ἄρτεμιν, τὸν ἀέρα δὲ Ἥραν*: ¨The moon Artemis, the air Hera"
+
 [Image of Entire Folio](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vbimg.VB170RN-0614)
 
-- *τὴν δ' αὖ σελήνην Ἄρτεμιν, τὸν ἀέρα δὲ Ἥραν*: ¨The moon Artemis, the air Hera"
-
-- The above excerpt and its scholion is attributed to a *Homeric Problemata* from Porphyry, a Neoplatonist grammarian from 3rd century A.D.
-
-- Neoplatonists were part of the allegorical tradition
-
-
 ---
-### Tracing the Etymology: Heraclitus
+### Before Porphyry: Heraclitus
 
 - Venetus B has a high concentration of Heraclitean material
 
