@@ -11,7 +11,9 @@ The gods are matched in opposition to each other for battle
 
 >*τῶν θεῶν μαχη περίεχει φυσικὴν στοιχείων προ στοιχεῖα ἀντίταξιν κακιῶν πρὸς ἀρετάς*
 >
-> The battle of the gods encompasses the natural opposition of elements against elements, vices against .
+> The battle of the gods encompasses the natural opposition of elements against elements, vices against virtues.
+
+[Folio Image](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431)
 
 ---
 
@@ -20,6 +22,8 @@ The gods are matched in opposition to each other for battle
 > Ἥρα δὲ (ἐναντιοῦται) Ἀρτέμιδι ὁ περίγειος αηρ τῇ σελήνη˙
 >
 > Hera is in opposition to Artemis (as) the air surrounding the earth is to the moon.
+
+[Folio Image](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431)
 
 ---
 
@@ -33,14 +37,11 @@ The gods are matched in opposition to each other for battle
 
 ## Second Observation
 
-[Selection from Main Scholion 11](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431@0.6441,0.1871,0.1846,0.01508@0.1818,0.8253,0.4024,0.02199)
-
-[Try number 2](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431@0.6441,0.1871,0.1846,0.01508@0.1818,0.8253,0.4024,0.02199@0.1776,0.8225,0.4020,0.02116)
-
-
 >Ἥρα δέ ἐστιν ἀήρ˙ Ἄρτεμις δὲ σελήνη ἀερότεμίς τις οῦσα ἡ τὸν ἀέρα τέμνουσα ἐξ οῦ ἤρτηται.*
 >
 > Hera is air. Artemis is the moon, being some "aer-temis" who, cutting the air, does not hang from it.
+
+[Folio Image](http://www.homermultitext.org/ict2/index.html?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431)
 
 - Redundancy to the original scholion suggests intertextual links
 
@@ -84,7 +85,7 @@ that has shaped scholarly tradition
 
 > *τὴν δ' αὖ σελήνην Ἄρτεμιν, τὸν ἀέρα δὲ Ἥραν*: ¨The moon Artemis, the air Hera"
 
-[Image of Entire Folio](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vbimg.VB170RN-0614)
+[Folio Image](http://www.homermultitext.org/hmt-digital/images?request=GetIIPMooViewer&urn=urn:cite:hmt:vbimg.VB170RN-0614)
 
 ---
 ## Before Porphyry: Heraclitus
@@ -102,7 +103,7 @@ that has shaped scholarly tradition
 
 *Οὐδὲ τοῦτ' ἀλόγος εἰσήγαγεν Ὅμερος˙ ἀλλ' ὥσπερ ἔφην Ἥρα μέν έστιν ἀήρ, τὴν δὲ σελήνην Ἄρτεμιν ὀνομάζει˙ πᾶν δὲ τὸ τεμνόμενον ἀεὶ πολέμίον ἐστι τῷ τέμνοντι˙ διὰ τοῦτο ἐχθρὰν ἀέρι τὴν σελήνην ὑπεστήσατο τὴν ἐν ἀέρι ἀυτῆς φορὰν καὶ τοὺς δρόμους ὑποσημαίνων.*
 
-"Homer has not introduced these details either without good reason. As I have said, Hera is air, and he calls the moon Artemis. Now whatever is cut [*τεμνομενον*] is always the enemy of the cutter [*τεμνον*], and this is why he has made the moon the enemy of the air [*αηρ*] suggesting thereby the movement and course of the moon through the air."
+"Homer has not introduced these details either without good reason. As I have said, Hera is air, and he calls the moon Artemis. Now whatever is cut [*temnomenon*] is always the enemy of the cutter [*temnon*], and this is why he has made the moon the enemy of the air [*αer*] suggesting thereby the movement and course of the moon through the air."
 
 ---
 ## Conclusions
@@ -122,9 +123,5 @@ that has shaped scholarly tradition
 
 
 ---
-
-
----
-
 
 [Overlaid links](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431@0.6441,0.1871,0.1846,0.01508@0.1818,0.8253,0.4024,0.02199&urn=urn:cite2:hmt:vaimg.2017a:VA261RN_0431@0.6441,0.1871,0.1846,0.01508&)
